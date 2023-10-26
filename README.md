@@ -29,3 +29,7 @@ There can be many running instances of an app, but their should be one main code
 
 ## 2. Dependencies
 All dependancies should be installed via a dependancy declaration manifest for example package.json.
+
+# Criticism of the 12 factor app
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/The-12-Factor-App-is-cloud-native-development-for-dummies
